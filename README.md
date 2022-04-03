@@ -1,4 +1,5 @@
 # Election_Analysis
+### (I had difficulty add/push/commiting my files via Git Bash prompt on my computer; I uploaded all of my files individually via drag-and-drop feature within the GitHub website.)
 ## UCD Module 3: PyPoll with Python; Project Overview
 A Colorado Board of Educations employee has given the following tasks to complete the election audit of a recent local congressional election.
 1. Calculate the total number of votes cast.
